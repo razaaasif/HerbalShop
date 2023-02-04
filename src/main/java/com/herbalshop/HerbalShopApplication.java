@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HerbalShopApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(HerbalShopApplication.class, args);
 	}
 
